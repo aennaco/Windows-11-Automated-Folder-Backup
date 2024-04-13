@@ -5,7 +5,7 @@ rem All Drives Backup Automation
 rem ---------------------------------------------------------------
 rem Note: remove 'rem 🔥' when ready to use the template
 rem Created Date: 2024-04-11
-rem Author (c): Isagani Jaen
+rem Author (c): Aenna Co
 
 
 
