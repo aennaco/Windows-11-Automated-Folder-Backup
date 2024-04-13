@@ -24,7 +24,7 @@
 ' where you can make a one-time donation or become a recurring supporter. Every contribution is greatly appreciated 
 ' and goes directly towards supporting the project's ongoing development efforts.
 
-'Thank you for your support! 🙏🚀
+' Thank you for your support! 🙏🚀
 
 
 
