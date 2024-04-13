@@ -1,20 +1,27 @@
 @echo off
 
-rem --------------------------------------------------------------- 
-rem  All Drives Backup Automation
-rem ---------------------------------------------------------------
-rem  Created Date: 2024-04-11
-rem  Author (c): Aenna Co
-rem  Company: ProdStudio 
-rem  Url: https://prodstudio.io
-rem  BuyMeACoffee - https://www.buymeacoffee.com/aennaco
+:: --------------------------------------------------------------- 
+::  All Drives Backup Automation
+:: ---------------------------------------------------------------
+::  Created Date: 2024-04-11
+::  Author (c): Aenna Co
+::  Company: ProdStudio 
+::  Url: https://prodstudio.io
+::  BuyMeACoffee - https://www.buymeacoffee.com/aennaco
+
+:: If you find this project helpful or valuable, please consider supporting its development. 
+:: Your contributions help cover the costs of maintaining and improving the project, ensuring 
+:: its continued growth and stability. You can support me via BuyMeACoffee - https://www.buymeacoffee.com/aennaco, 
+:: where you can make a one-time donation or become a recurring supporter. 
+:: Every contribution is greatly appreciated and goes directly towards supporting the project's ongoing development efforts. 
+
+:: Thank you for your support! 🙏🚀
 
 
 
-
-rem ---------------------------------- 
-rem  Backup OneDrive Documents
-rem ---------------------------------- 
+:: ---------------------------------- 
+::  Backup OneDrive Documents
+:: ---------------------------------- 
 
 
 rem Set variables for source and destination folders
@@ -31,9 +38,9 @@ echo OneDrive Backup completed.
 
 
 
-rem ---------------------------------- 
-rem Backup Automation Folder
-rem ---------------------------------- 
+:: ---------------------------------- 
+:: Backup Automation Folder
+:: ---------------------------------- 
 
 rem Set variables for source and destination folders
 set "source2=C:\Users\annal\Desktop\Automations"
@@ -49,9 +56,9 @@ echo Automation Folder Backup completed.
 
 
 
-rem ---------------------------------- 
-rem Backup Dev Drive (VHD)
-rem ----------------------------------
+:: ---------------------------------- 
+:: Backup Dev Drive (VHD)
+:: ----------------------------------
 
 rem Set variables for source and destination folders
 set "source3=D:\"

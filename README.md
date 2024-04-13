@@ -52,9 +52,9 @@ To get started with the Windows 11 Automated Backup project, follow these steps:
 - Modify the source and destination paths in the .bat and .vbs files according to your backup requirements.
 - On the All_Drives_Backup.bat, paste the template below and change the source_, destination_ as needed: 
 ```
-rem ---------------------------------- 
-rem  Backup Your-Folder-Name
-rem ---------------------------------- 
+:: ---------------------------------- 
+::  Backup Your-Folder-Name
+:: ---------------------------------- 
 
 
 rem Set variables for source and destination folders
@@ -74,9 +74,9 @@ echo Your-Folder-Name Backup completed.
 **Example:** If you want to backup your **Document** folder to your drive D:\backup-folder, just update the source and destination variables and values:
 
 ```
-rem ---------------------------------- 
-rem  Backup Document
-rem ---------------------------------- 
+:: ---------------------------------- 
+::  Backup Document
+:: ---------------------------------- 
 
 
 rem Set variables for source and destination folders
