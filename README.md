@@ -67,4 +67,5 @@ Contributions to the Windows 11 Automated Backup project are welcome! If you hav
 This project is licensed under the MIT License.
 
 ## Acknowledgements
-- Inspired by the need for a simple and efficient backup solution on Windows 11.
+- Inspired by the need for a simple and efficient backup solution on Windows 11. 
+
