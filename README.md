@@ -16,7 +16,7 @@ This project provides a set of scripts to automate the backup process for specif
 
 ## How It Works
 
-The Windows 11 Automated Backup project consists of the following components:
+The Windows 11 Automated Folder Backup project consists of the following components:
 
 - **0automation_background_process.vbs:** This VBScript operates discreetly in the background, serving as the initiation point for the backup process. Unlike batch (.bat) files, VBScripts can execute silently without displaying a command prompt window, ensuring a seamless user experience. The script orchestrates the execution of the backup by calling the necessary batch (.bat) files.
 
