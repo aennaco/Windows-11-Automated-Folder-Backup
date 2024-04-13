@@ -53,7 +53,7 @@ To get started with the Windows 11 Automated Backup project, follow these steps:
 - On the All_Drives_Backup.bat, paste the template below and change the source_, destination_ as needed: 
 ```
 rem ---------------------------------- 
-rem  Backup OneDrive Documents
+rem  Backup Your-Folder-Name
 rem ---------------------------------- 
 
 
