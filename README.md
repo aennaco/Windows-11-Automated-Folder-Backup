@@ -71,7 +71,7 @@ echo Your-Folder-Name Backup completed.
 
 ```
 
-Example: If you want ot backup your **Document** folder to your drive D:\backup-folder, just update the source and destination variables and values:
+**Example:** If you want to backup your **Document** folder to your drive D:\backup-folder, just update the source and destination variables and values:
 
 ```
 rem ---------------------------------- 
