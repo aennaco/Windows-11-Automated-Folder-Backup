@@ -61,11 +61,11 @@ To get started with the Windows 11 Automated Backup project, follow these steps:
 
  
 ## Contributing
-Contributions to the Windows 11 Automated Backup project are welcome! If you have ideas for improvements, new features, or bug fixes, feel free to open an issue or submit a pull request.
+Contributions to the Windows 11 Automated Folder Backup project are welcome! If you have ideas for improvements, new features, or bug fixes, feel free to open an issue or submit a pull request.
 
 ## License
 This project is licensed under the MIT License.
 
 ## Acknowledgements
-- Inspired by the need for a simple and efficient backup solution on Windows 11. 
+- Inspired by the need for FREE a simple and efficient backup solution on Windows 11. 
 
