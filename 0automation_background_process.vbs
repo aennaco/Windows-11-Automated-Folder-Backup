@@ -20,7 +20,7 @@
 
 
 '--------------------------------------------
-' Version 1.1
+' Version 1.0
 '--------------------------------------------
 
 Const ForAppending = 8
@@ -66,19 +66,3 @@ Sub WriteToLogFile(message)
     Set objLogFile = Nothing
 End Sub
 
-
-
-
-
-
-
-'--------------------------------------------
-' Version 1.0
-'--------------------------------------------
-
-' Set objShell = CreateObject("WScript.Shell")
-
-' 'backup OneDrive Folder
-' objShell.Run "cmd /c C:\Users\annal\Desktop\Automations\All_Drives_Backup.bat", 0, False
-
-' Set objShell = Nothing
