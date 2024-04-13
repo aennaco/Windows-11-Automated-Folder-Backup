@@ -65,9 +65,32 @@ rem Check if the destination folder exists, if not, create it
 if not exist "%destination_%" mkdir "%destination_%"
 
 rem Copy only the new or modified files from source folder to destination folder
-xcopy "%source1%" "%destination_%" /D /E /C /Y
+xcopy "%source_%" "%destination_%" /D /E /C /Y
 
-echo Your-folder Backup completed.
+echo Your-Folder-Name Backup completed.
+
+```
+
+Example: If you want ot backup your **Document** folder to your drive D:\backup-folder, just update the source and destination variables and values:
+
+```
+rem ---------------------------------- 
+rem  Backup Document
+rem ---------------------------------- 
+
+
+rem Set variables for source and destination folders
+set "source_3=C:\Users\JohnDoe\Documents"
+set "destination_3=D:\backup-folder"
+
+rem Check if the destination folder exists, if not, create it
+if not exist "%destination_3%" mkdir "%destination_3%"
+
+rem Copy only the new or modified files from source folder to destination folder
+xcopy "%source_3%" "%destination_3%" /D /E /C /Y
+
+echo Your-Folder-Name Backup completed.
+
 
 ```
 
