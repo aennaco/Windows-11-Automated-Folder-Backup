@@ -5,6 +5,8 @@ rem All Drives Backup Automation
 rem ---------------------------------------------------------------
 rem Created Date: 2024-04-11
 rem Author (c): Aenna Co
+rem Company: ProdStudio | https://prodstudio.io
+
 
 
 
