@@ -1,3 +1,33 @@
+'-----------------------------------------------------------------------
+' Overview
+'-----------------------------------------------------------------------
+'
+'   This project provides a set of scripts to automate the backup 
+' process for specific folders on Windows 11. By using batch (.bat) 
+' and VBScript (.vbs) files, you can schedule regular backups of your 
+' important data to an external drive or network location.
+ 
+' Created Date: 2024-04-11
+' Author (c): Aenna Co
+' Company: ProdStudio 
+' Url: https://prodstudio.io
+' BuyMeACoffee - https://www.buymeacoffee.com/aennaco
+
+
+
+'-----------------------------------------------------------------
+' Support the Project
+'-----------------------------------------------------------------
+' If you find this project helpful or valuable, please consider supporting its development. 
+' Your contributions help cover the costs of maintaining and improving the project, ensuring 
+' its continued growth and stability. You can support me via  BuyMeACoffee - https://www.buymeacoffee.com/aennaco, 
+' where you can make a one-time donation or become a recurring supporter. Every contribution is greatly appreciated 
+' and goes directly towards supporting the project's ongoing development efforts.
+
+'Thank you for your support! 🙏🚀
+
+
+
 '-----------------------------------------------------------------
 ' Automation Wrapper
 '-----------------------------------------------------------------
@@ -6,18 +36,7 @@
 ' on the desktop when triggered by the scheduler. A.k.a. simulating
 ' background process.
 
-' Created Date: 2024-04-11
-' Author (c): Aenna Co
-' Company: ProdStudio 
-' Url: https://prodstudio.io
 
-'-----------------------------------------------------------------
-' Task Scheduler
-'-----------------------------------------------------------------
-' See Task Scheduler > Task Scheduler Library
-' Task Name: Automated Backup to Drive D
-' Scheduled Run: Hourly
-' 
 
 
 

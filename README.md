@@ -50,6 +50,27 @@ To get started with the Windows 11 Automated Backup project, follow these steps:
 
 2. Customize the source and destination folders in the provided scripts:
 - Modify the source and destination paths in the .bat and .vbs files according to your backup requirements.
+- On the All_Drives_Backup.bat, paste the template below and change the source_, destination_ as needed: 
+```
+rem ---------------------------------- 
+rem  Backup OneDrive Documents
+rem ---------------------------------- 
+
+
+rem Set variables for source and destination folders
+set "source_=C:\"
+set "destination_=D:\"
+
+rem Check if the destination folder exists, if not, create it
+if not exist "%destination_%" mkdir "%destination_%"
+
+rem Copy only the new or modified files from source folder to destination folder
+xcopy "%source1%" "%destination_%" /D /E /C /Y
+
+echo Your-folder Backup completed.
+
+```
+
 
 ## Configuration
 - Source Folder: Specify the folder(s) on your Windows 11 system that you want to back up.
