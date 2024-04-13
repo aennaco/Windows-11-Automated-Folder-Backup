@@ -39,8 +39,7 @@ To get started with the Windows 11 Automated Backup project, follow these steps:
    ```
 
 2. Customize the source and destination folders in the provided scripts:
-
-Modify the source and destination paths in the .bat and .vbs files according to your backup requirements.
+- Modify the source and destination paths in the .bat and .vbs files according to your backup requirements.
 
 ## Configuration
 - Source Folder: Specify the folder(s) on your Windows 11 system that you want to back up.
