@@ -36,3 +36,26 @@ To get started with the Windows 11 Automated Backup project, follow these steps:
 
    ```bash
    git clone https://github.com/aennaco/Windows-11-Automated-Backup.git
+   ```
+
+2. Customize the source and destination folders in the provided scripts:
+
+Modify the source and destination paths in the .bat and .vbs files according to your backup requirements.
+
+## Configuration
+- Source Folder: Specify the folder(s) on your Windows 11 system that you want to back up.
+- Destination Folder: Specify the location where you want to store the backup files (e.g., external drive, network location).
+
+## Execution
+- Manual Execution: Run the provided batch (.bat) and VBScript (.vbs) files manually to initiate the backup process.
+- Scheduled Execution: Use Task Scheduler to schedule the batch (.bat) or VBScript (.vbs) files for automatic execution at desired intervals.
+
+
+## Contributing
+Contributions to the Windows 11 Automated Backup project are welcome! If you have ideas for improvements, new features, or bug fixes, feel free to open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License.
+
+## Acknowledgements
+- Inspired by the need for a simple and efficient backup solution on Windows 11.
