@@ -101,7 +101,7 @@ echo Your-Folder-Name Backup completed.
 
 ## Execution
 - Manual Execution: Run the VBScript (.vbs) and/or provided batch (.bat) file manually to initiate the backup process.
-- Scheduled Execution: Use Task Scheduler to **schedule VBScript (.vbs)** files for automatic execution at desired intervals.
+- Scheduled Execution (Recommended): Use Task Scheduler to **schedule VBScript (.vbs)** file for automatic execution at desired intervals.
 
  
 ## Contributing
