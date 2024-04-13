@@ -1,4 +1,4 @@
-# Windows 11 Automated Backup
+# Windows 11 Automated Folder Backup
 
 Automate your backup process on Windows 11 with this simple and efficient script.
 
