@@ -18,15 +18,9 @@ This project provides a set of scripts to automate the backup process for specif
 
 The Windows 11 Automated Backup project consists of the following components:
 
-1. **0automation_background_process.vbs**: This VBScript runs in the background and serves as the entry point for initiating the backup process. It calls the necessary batch (.bat) files to perform the backups.
+1. **0automation_background_process.vbs:** This VBScript operates discreetly in the background, serving as the initiation point for the backup process. Unlike batch (.bat) files, VBScripts can execute silently without displaying a command prompt window, ensuring a seamless user experience. The script orchestrates the execution of the backup by calling the necessary batch (.bat) files.
 
-2. **OneDrive_backup.bat**: This batch file is responsible for backing up the OneDrive Documents folder. It uses the `xcopy` command to copy new or modified files from the source folder to the destination folder.
-
-3. **Automation_Folder_backup.bat**: Similar to OneDrive_backup.bat, this batch file backs up the Automation Folder to a specified destination.
-
-4. **Dev_Drive_backup.bat**: This batch file backs up the Dev Drive (VHD) to a specified destination.
-
-5. **All_Drives_Backup.bat**: This batch file is a master script that calls all the individual backup scripts (OneDrive_backup.bat, Automation_Folder_backup.bat, Dev_Drive_backup.bat) sequentially. It provides an easy way to trigger all backups at once.
+2. **All_Drives_Backup.bat:** Functioning as a master script, All_Drives_Backup.bat coordinates the sequential execution of individual backup operations. By consolidating these operations, it offers users a convenient means of triggering multiple backups simultaneously.
 
 
 ## Getting Started
