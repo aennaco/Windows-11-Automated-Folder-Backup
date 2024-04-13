@@ -45,7 +45,7 @@ To get started with the Windows 11 Automated Backup project, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/aennaco/Windows-11-Automated-Backup.git
+   git clone https://github.com/aennaco/Windows-11-Automated-Folder-Backup
    ```
 
 2. Customize the source and destination folders in the provided scripts:
