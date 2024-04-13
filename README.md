@@ -49,7 +49,7 @@ To get started with the Windows 11 Automated Backup project, follow these steps:
 - Manual Execution: Run the provided batch (.bat) and VBScript (.vbs) files manually to initiate the backup process.
 - Scheduled Execution: Use Task Scheduler to schedule the batch (.bat) or VBScript (.vbs) files for automatic execution at desired intervals.
 
-
+ 
 ## Contributing
 Contributions to the Windows 11 Automated Backup project are welcome! If you have ideas for improvements, new features, or bug fixes, feel free to open an issue or submit a pull request.
 
