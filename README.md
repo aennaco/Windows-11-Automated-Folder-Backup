@@ -69,3 +69,12 @@ This project is licensed under the MIT License.
 ## Acknowledgements
 - Inspired by the need for FREE a simple and efficient backup solution on Windows 11. 
 
+## Support the Project
+
+If you find this project helpful or valuable, please consider supporting its development. Your contributions help cover the costs of maintaining and improving the project, ensuring its continued growth and stability.
+
+You can support me via [BuyMeACoffee](https://www.buymeacoffee.com/aennaco), where you can make a one-time donation or become a recurring supporter. Every contribution is greatly appreciated and goes directly towards supporting the project's ongoing development efforts.
+
+Thank you for your support! 🙏🚀
+
+
